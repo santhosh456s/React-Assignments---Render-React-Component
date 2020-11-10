@@ -41,7 +41,7 @@ const App = () => {
     <></>
     <>
     <h1>Holidy List</h1>
-     <h2>{cityJSX}</h2>
+     <p>{cityJSX}</p>
     </>
   )
 }
